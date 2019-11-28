@@ -1,0 +1,6 @@
+com/cassey/ggsddu/ms/consumer/order/service/impl/OrderPreServiceImpl.class
+com/cassey/ggsddu/ms/consumer/ConsumerApplication.class
+com/cassey/ggsddu/ms/consumer/order/controller/OrderController.class
+com/cassey/ggsddu/ms/consumer/order/pojo/form/PreOrderForm.class
+com/cassey/ggsddu/ms/consumer/common/data/Result.class
+com/cassey/ggsddu/ms/consumer/order/service/OrderPreService.class
